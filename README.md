@@ -3,15 +3,16 @@ Project Overview:
 This project is a dynamic carousel that displays a series of cards containing images and text.
 
 It includes features such as:
+
 1. Pagination using dots
 
 2 .Automatic sliding every few seconds
 
 3 .Left and right arrow navigation
 
-3. Hover effects on the cards
+4. Hover effects on the cards
 
-4. Responsive design for different screen sizes
+5. Responsive design for different screen sizes
 
 
 Code Structure:
